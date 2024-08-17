@@ -9,11 +9,15 @@ h1 {
     text-align: center;
 }
 
+h2 {
+    text-align: center;
+}
+
 .ambiente1 {
     background-color: rgb(160, 207, 155);
     border: 1 px solid #ccc;
-    margin-bottom: 15px;
-    padding: 30px;
+    margin-bottom: 50px;
+    padding: 60px;
     display: flex;
     justify-content: space-between;
 }
@@ -21,8 +25,8 @@ h1 {
 .ambiente2 {
     background-color: rgb(196, 179, 226);
     border: 1 px solid #ccc;
-    margin-bottom: 15px;
-    padding: 30px;
+    margin-bottom: 50px;
+    padding: 60px;
     display: flex;
     justify-content: space-between;
 }
