@@ -1,0 +1,64 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: bisque;
+    padding: 200px;
+    height: 20px;
+}
+
+h1 {
+    text-align: center;
+}
+
+.ambiente1 {
+    background-color: rgb(160, 207, 155);
+    border: 1 px solid #ccc;
+    margin-bottom: 15px;
+    padding: 30px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.ambiente2 {
+    background-color: rgb(196, 179, 226);
+    border: 1 px solid #ccc;
+    margin-bottom: 15px;
+    padding: 30px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.nome {
+    font-weight: bold;
+    min-width: 300px;
+}
+
+sub {
+    vertical-align: sub;
+    font-size: smaller;
+}
+
+.estado {
+    padding: 10px 15px;
+    border-radius: 15px;
+    color: rgb(7, 5, 5);
+    text-align: center;
+    width: 150px;
+}
+
+.ocupado {
+    background-color: palevioletred;
+    font-weight: bold;
+    text-align: center;
+}
+
+.livre {
+    background-color: cornflowerblue;
+    font-weight: bold;
+    text-align: center;
+}
+
+.manutencao {
+    background-color: rgb(216, 78, 14);
+    font-weight: bold;
+    text-align: center;
+}
